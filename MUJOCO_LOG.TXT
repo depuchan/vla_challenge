@@ -1,3 +1,0 @@
-Sat Feb 14 10:22:28 2026
-WARNING: OpenGL error 0x505 in or before mjr_makeContext
-
